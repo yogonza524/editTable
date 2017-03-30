@@ -1,0 +1,4 @@
+com/core/persisttable/PersistBean.class
+com/core/model/PersonId.class
+com/core/persisttable/HibernateUtil.class
+com/core/model/Person.class
